@@ -1,26 +1,21 @@
-# Sorteio do Amigo secreto
+# Sorteio do Amigo Secreto!
+Este projeto faz parte da formação inicial em Lógica de Programação da #AluraLatam
+Foi desenvolvido como parte do curso de Backend e Data Science do programa Oracle Next Education.
 
-## Este projeto é parte da formação iniciante em lógica de programação da #AluraLatam.
-## Foi realizado como parte da formação em Backend e Data Science do programa Oracle Next Education.
-
-### Este desafio consiste em atribuir o código Java Script a uma página Html com os seguintes objetivos:
-
-    - Popular uma lista com participantes em um evento de Amigo Secreto;
-    - Exibir a lista de participantes na página HTML;
-    - Selecionar um participante da lista aleátoriamente;
-    - Exibir o participante selecionado na página HTML;
-
-### O desafio proporciona o aprendizado dos seguintes conceitos:
-
-    - Criar, popular e acessar elementos em uma array;
-    - Utilizar o Dom para acessar elementos HTML com Java Script;
-    - Criar e inserir elementos em uma página HTML com Java Script;
-    - Gerar numeros aleatórios com as funções randon() e floor() da biblioteca padrão do Java Script,Math;
-    - Criar funções e váriaveis, assim como compreender o seu escopo;
-    - Utilizar a estrutura de repetição for;
-    - Utilizar o git e o github para compartilhar projetos;
+Objetivos do desafio:
+Criar uma lista de participantes para um evento de Amigo Secreto;
+Exibir essa lista em uma página HTML;
+Selecionar um participante aleatoriamente;
+Exibir o participante sorteado na página HTML.
+Conceitos abordados:
+Criação e manipulação de arrays;
+Uso do DOM para acessar e modificar elementos HTML com JavaScript;
+Criação e inserção de elementos na página HTML usando JavaScript;
+Geração de números aleatórios utilizando as funções random() e floor() da biblioteca Math do JavaScript;
+Criação de funções e variáveis, com foco em escopo;
+Utilização da estrutura de repetição for;
+Uso de Git e GitHub para compartilhar projetos.
+Acesse a página em funcionamento:
+Amigo Secreto
 
 
-## Snapshot
-### Você pode ver a página em funcionamento no link <a href="https://taidson-so.github.io/Alura/amigo-secreto/">amigo secreto</a>
-![Alt](assets/snapshot.png "Snapshot interface page HTML")
